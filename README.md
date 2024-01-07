@@ -6,17 +6,12 @@ Welcome to the Aristotle Onassis Tribute web page! This simple application pays 
 
 ## Table of Contents
 
-- [Preview](#preview)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How To Use](#how-to-use)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
-## Preview
-
-
 
 ## Introduction
 
